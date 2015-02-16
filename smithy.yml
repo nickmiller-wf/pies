@@ -1,4 +1,5 @@
 project: python
+language: python
 runtime: 2.7
 
 requirements:
