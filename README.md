@@ -2,6 +2,7 @@ pies
 ====
 
 README
+README
 I like tasty pies. Do you?
 
 Mmmmmm.
